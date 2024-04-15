@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<templates>
+  <clibs name="SpaceLibrary">
+    <add>Uhttps://drive.google.com/file/d/1qNStjf3RPiqj9jcCDvzEsspURqfCgNSh/view?usp=drive_link</add>
+  </clibs>
+  <template section="Custom" subsection="JVR" url="https://drive.google.com/file/d/1CFaqQkJXudzBJzosEXqv60meKcrg8DDy/view?usp=drive_link" title="SpaceProject" name="Space Project" preview="https://example.com/diagram.png" libs="general;basic" clibs="SpaceLibrary" tags="term1;term2" />
+</templates>
