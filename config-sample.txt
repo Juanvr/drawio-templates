@@ -1,0 +1,3 @@
+{
+  "templateFile": "https://raw.githubusercontent.com/Juanvr/drawio-templates/master/template-library.xml"
+}
